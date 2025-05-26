@@ -18,7 +18,6 @@ This project leverages machine learning to predict the likelihood of student dro
   - Tuition payment status
   - Age at enrollment
 - **Best model for sensitivity**: Logistic Regression (89% recall after threshold adjustment)
-- **Best balanced models**: XGBoost and Random Forest (high accuracy and specificity)
 
 ## Methodology
 

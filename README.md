@@ -1,4 +1,3 @@
-# dropout-prediction
 # Leveraging ML to Predict Dropout Likelihood in Higher Education
 
 Authors: Raquel Ana M Bush and Brian Kade Betterton

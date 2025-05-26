@@ -45,4 +45,5 @@ This project leverages machine learning to predict the likelihood of student dro
 - `DropoutPrediction_ProjectReport.pdf` — formal write-up with figures and detailed analysis
 
 
+
 > This project demonstrates the potential of AI to support equity and success in education by enabling data-informed student support systems.

@@ -40,7 +40,7 @@ This project leverages machine learning to predict the likelihood of student dro
 
 ## Files Included Here
 
-- `RaquelAna_Bush_ProjectCode.ipynb` — full code and visualizations
+- `dropout_prediction.ipynb` — full code and visualizations
 - `DropoutPrediction_ProjectReport.pdf` — formal write-up with figures and detailed analysis
 
 
